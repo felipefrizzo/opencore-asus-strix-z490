@@ -10,7 +10,7 @@
 
 ## Software
 
-* Bootloader: OpenCore 0.6.0-RELEASE
+* Bootloader: OpenCore 0.6.7-RELEASE
 * OS: macOS Catalina 10.15.7
 
 ## What's working
